@@ -1,6 +1,5 @@
 import numpy as np
 import cv2 as cv
-from google.colab.patches import cv2_imshow
 import matplotlib.pyplot as plt
 import random
 import operator
